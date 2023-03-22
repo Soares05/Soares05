@@ -18,6 +18,5 @@ Here are some ideas to get you started:
 - 🖥 Cursando Desenvolimento de Sistemas no SENAI  ...
 - ⚽ Amo esportes, pincipalmente futebol ...
 ## Ferramentas e tecnologias
-
-            <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original-wordmark.svg" />
           
